@@ -9,7 +9,7 @@ This project demonstrates **Java GUI development, JDBC connectivity, and CRUD op
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Admin Login** – Secure login with username & password.
 * **View Employees** – Displays all employees in a scrollable list with card-style panels.
@@ -20,7 +20,7 @@ This project demonstrates **Java GUI development, JDBC connectivity, and CRUD op
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 * **Language:** Java (JDK 18)
 * **GUI Framework:** Swing
@@ -49,9 +49,6 @@ EmployeeManagementSystem/
 │
 └── lib/
     └── mysql-connector-java-x.x.x.jar
-```
-
----
 
 ## ⚙️ Setup Instructions
 
@@ -84,7 +81,7 @@ EmployeeManagementSystem/
 5. Open the project in IntelliJ/Eclipse and run `Main.java`.
 
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 * Java Swing GUI development.
 * JDBC connection with MySQL.
